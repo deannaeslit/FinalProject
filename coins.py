@@ -5,7 +5,6 @@ from game_parameters import *
 from utilities import *
 from player import *
 import random
-from runner import *
 
 class Coin(pygame.sprite.Sprite):
     def __init__(self):
